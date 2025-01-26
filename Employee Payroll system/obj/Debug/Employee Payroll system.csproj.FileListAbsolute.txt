@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\Employee Payroll system\Employee Payroll system\bin\Debug\Employee Payroll system.exe.config
+C:\Users\ASUS\source\repos\Employee Payroll system\Employee Payroll system\bin\Debug\Employee Payroll system.exe
+C:\Users\ASUS\source\repos\Employee Payroll system\Employee Payroll system\bin\Debug\Employee Payroll system.pdb
+C:\Users\ASUS\source\repos\Employee Payroll system\Employee Payroll system\obj\Debug\Employee Payroll system.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Employee Payroll system\Employee Payroll system\obj\Debug\Employee Payroll system.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\Employee Payroll system\Employee Payroll system\obj\Debug\Employee Payroll system.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Employee Payroll system\Employee Payroll system\obj\Debug\Employee Payroll system.exe
+C:\Users\ASUS\source\repos\Employee Payroll system\Employee Payroll system\obj\Debug\Employee Payroll system.pdb
